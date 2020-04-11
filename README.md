@@ -13,3 +13,4 @@ Short Description: Currently PowerBI published report or online version lacks fe
 
 
 ![PowerBI Extension sample](images/PowerBI%20Extension.png)
+![PowerBI Extension Popup sample](images/PowerBI%20Extension%20Popup.png)
